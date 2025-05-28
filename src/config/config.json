@@ -1,20 +1,20 @@
 {
   "site": {
-    "title": "Oscar Barajas @gndx.bricks",
-    "base_url": "https://bricks.lat",
+    "title": "Oscar Barajas @GNDx",
+    "base_url": "https://barajas.m,x",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logo": "https://s3.us-east-1.amazonaws.com/gndx.dev/gndx-bricks-logo.png",
+    "logo": "https://s3.us-east-1.amazonaws.com/gndx.dev/gndx-logo.png",
     "lang": "es",
-    "description": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+    "description": "Front-end, creando mi primera página web en el 2001, Actualmente Learning Engineer en @platzi  Microsoft MVP #JavaScript #buildinpublic #WithAstro - 🇲🇽 🇨🇴"
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @GNDx.bricks",
-    "meta_description": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+    "meta_author": "Oscar Barajas @GNDx",
+    "meta_description":  "Front-end, creando mi primera página web en el 2001, Actualmente Learning Engineer en @platzi  Microsoft MVP #JavaScript #buildinpublic #WithAstro - 🇲🇽 🇨🇴"
   },
   "author": {
-    "name": "Oscar Barajas @GNDx.bricks",
+    "name": "Oscar Barajas @GNDx",
     "avatar": "https://s3.us-east-1.amazonaws.com/gndx.dev/gndx.bricks.png",
-    "bio": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+    "bio":  "Front-end, creando mi primera página web en el 2001, Actualmente Learning Engineer en @platzi  Microsoft MVP #JavaScript #buildinpublic #WithAstro - 🇲🇽 🇨🇴"
   }
 }
