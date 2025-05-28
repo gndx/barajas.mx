@@ -9,11 +9,7 @@
       "url": "/about"
     },
     {
-      "name": "Lego ROOM",
-      "url": "/room"
-    },
-    {
-      "name": "Novedades",
+      "name": "Categorías",
       "url": "/categories"
     }
   ]
