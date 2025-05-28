@@ -1,0 +1,20 @@
+{
+  "site": {
+    "title": "Oscar Barajas @gndx.bricks",
+    "base_url": "https://bricks.lat",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logo": "https://s3.us-east-1.amazonaws.com/gndx.dev/gndx-bricks-logo.png",
+    "lang": "es",
+    "description": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+  },
+  "metadata": {
+    "meta_author": "Oscar Barajas @GNDx.bricks",
+    "meta_description": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+  },
+  "author": {
+    "name": "Oscar Barajas @GNDx.bricks",
+    "avatar": "https://s3.us-east-1.amazonaws.com/gndx.dev/gndx.bricks.png",
+    "bio": "Coleccionista de LEGO Space 🚀 Compartiendo mi pasión por #LEGO en Español desde Medellín, Colombia 🇨🇴"
+  }
+}

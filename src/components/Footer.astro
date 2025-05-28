@@ -1,0 +1,28 @@
+---
+import config from "@config/config.json";
+import HeartIcon from "@components/icons/HeartIcon.astro";
+const year = new Date().getFullYear();
+---
+
+<footer class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8">
+  <div class="border-t border-zinc-10">
+    <p class="text-center text-xs/relaxed text-zinc-500  mt-8">
+      &copy; {year}. {config.site.title}. All rights REVERSED
+    </p>
+    <p class="text-center text-xs/relaxed text-zinc-500  mt-2 mb-4 w-3/4 m-auto">
+      LEGO®, the LEGO logo, the Minifigure, and the distinctive brick design are trademarks and/or copyrights owned by the LEGO Group. This site is not sponsored, authorized, or endorsed by the LEGO Group.
+    </p>
+    <p class="text-center text-xs/relaxed text-zinc-500  mb-8">
+      <span class="block mt-2">
+        Made with
+        <HeartIcon />
+        in Medellín, Colombia. by
+        <a
+          href="https://gndx.dev"
+          class="text-zinc-700 decoration-dashed transition hover:text-zinc-700/75 "
+          >GNDX</a
+        >
+      </span>
+    </p>
+  </div>
+</footer>
